@@ -13,7 +13,7 @@
 <img src="https://github.com/youryummyyummymetalhead/biscuits/blob/74d6f5163f2c7c948771355c7e57b8d05ef5c849/438d8734419f88c2f928fc58169e2193.jpg" width="70%" />
 <img src="https://github.com/youryummyyummymetalhead/biscuits/blob/74d6f5163f2c7c948771355c7e57b8d05ef5c849/26275b01a82cd105e7fb88ecb20251d5.jpg" width="50%" />
  
-div>
+<div>
 
   <img src="https://github.com/youryummyyummymetalhead/biscuits/blob/30fff02f24e143d9fa7c753cbdeb363d6a2c8e2b/c50d661edb446a049721b01fd82b0388.gif" width="40%" />
 
