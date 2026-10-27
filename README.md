@@ -9,7 +9,8 @@
   
  #ᴅɴɪ ɪꜰ : ɢʀᴏᴏᴍᴇʀ , ɴᴏɴ-ʀᴇꜱᴘᴇᴄᴛᴇʀ ᴛᴏ ᴘᴇᴏᴘʟᴇ'ꜱ ʜᴏʙʙɪᴇꜱ , ᴢᴏᴏᴘʜɪʟᴇ , ʜᴇᴛᴇʀᴏᴘʜᴏʙɪᴄ , ʜᴏᴍᴏᴘʜᴏʙɪᴄ , ᴛʀᴀɴꜱᴘʜᴏʙɪᴄ , ʀᴀᴄɪꜱᴛ , ᴘʀᴏ ꜱʜɪᴘᴘᴇʀ ᴇᴛᴄ .
 
-<![ ](https://github.com/youryummyyummymetalhead/biscuits/blob/74d6f5163f2c7c948771355c7e57b8d05ef5c849/26275b01a82cd105e7fb88ecb20251d5.jpg) width="60% />
+![ ](https://github.com/youryummyyummymetalhead/biscuits/blob/74d6f5163f2c7c948771355c7e57b8d05ef5c849/26275b01a82cd105e7fb88ecb20251d5.jpg) 
+<img src="https://github.com/youryummyyummymetalhead/biscuits/blob/74d6f5163f2c7c948771355c7e57b8d05ef5c849/26275b01a82cd105e7fb88ecb20251d5.jpg" width="60%" />
  
    ɪ'ᴍ  ᴀʀᴏᴀᴄᴇ
   
