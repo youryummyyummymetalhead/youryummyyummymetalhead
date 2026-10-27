@@ -10,8 +10,8 @@
   
  #ᴅɴɪ ɪꜰ : ɢʀᴏᴏᴍᴇʀ , ɴᴏɴ-ʀᴇꜱᴘᴇᴄᴛᴇʀ ᴛᴏ ᴘᴇᴏᴘʟᴇ'ꜱ ʜᴏʙʙɪᴇꜱ , ᴢᴏᴏᴘʜɪʟᴇ , ʜᴇᴛᴇʀᴏᴘʜᴏʙɪᴄ , ʜᴏᴍᴏᴘʜᴏʙɪᴄ , ᴛʀᴀɴꜱᴘʜᴏʙɪᴄ , ʀᴀᴄɪꜱᴛ , ᴘʀᴏ ꜱʜɪᴘᴘᴇʀ ᴇᴛᴄ .
 
-<img src="https://github.com/youryummyyummymetalhead/biscuits/blob/74d6f5163f2c7c948771355c7e57b8d05ef5c849/438d8734419f88c2f928fc58169e2193.jpg" width="100%" />
-<img src="https://github.com/youryummyyummymetalhead/biscuits/blob/74d6f5163f2c7c948771355c7e57b8d05ef5c849/26275b01a82cd105e7fb88ecb20251d5.jpg" width="60%" />
+<img src="https://github.com/youryummyyummymetalhead/biscuits/blob/74d6f5163f2c7c948771355c7e57b8d05ef5c849/438d8734419f88c2f928fc58169e2193.jpg" width="80%" />
+<img src="https://github.com/youryummyyummymetalhead/biscuits/blob/74d6f5163f2c7c948771355c7e57b8d05ef5c849/26275b01a82cd105e7fb88ecb20251d5.jpg" width="50%" />
  
    ɪ'ᴍ  ᴀʀᴏᴀᴄᴇ
   
